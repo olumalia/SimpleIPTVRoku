@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1,*****ENTERTAINMENT*****
+.
+#EXTINF:-1,BBC ONE (GEOBLOCKED)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
+#EXTINF:-1,BBC TWO (GEOBLOCKED)
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
+#EXTINF:-1,ITV (GEOBLOCKED)
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
+#EXTINF:-1,CHANNEL 4 (GEOBLOCKED)
+http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8
+#EXTINF:-1,*****SPORT*****
+.
+#EXTINF:-1,PAC12 ARIZONA
+http://p12a-lh.akamaihd.net/i/arizona_delivery@199730/master.m3u8
+
