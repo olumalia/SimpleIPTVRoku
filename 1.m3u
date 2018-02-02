@@ -10,6 +10,20 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
 #EXTINF:-1,CHANNEL 4 (GEOBLOCKED)
 http://streams.yo.tv/srv3/ngrp:3.stream_all/playlist.m3u8
+#EXTINF:-1,ITV2 HD
+http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
+#EXTINF:-1,ITV3 HD
+http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+#EXTINF:-1,ITV4 HD
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+#EXTINF:-1,ITVBE HD
+http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
+#EXTINF:-1,E4 SD
+http://streams.yo.tv/srv4/ngrp:4.stream_all/playlist.m3u8
+#EXTINF:-1,CBBC HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
+#EXTINF:-1,CBEEBIES HD
+http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
 #EXTINF:-1,*****SPORT*****
 .
 #EXTINF:-1,PAC12 ARIZONA
