@@ -11,4 +11,4 @@ There is a default playlist with a few channels that can be found on the net or 
 
 Please note it will not sort into categories.
 
-update - the art works a bit shit will replace with something easier to see :)
+
