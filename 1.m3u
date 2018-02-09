@@ -24,4 +24,20 @@ http://streams.yo.tv/srv4/ngrp:4.stream_all/playlist.m3u8
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
 #EXTINF:-1,CBEEBIES HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
+#EXTINF:-1,*****NEWS*****
+.
+#EXTINF:-1,NBC 13
+http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
+#EXTINF:-1,KXAN News
+https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
+#EXTINF:-1,NBC 11 News
+http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
+#EXTINF:-1,
 
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
+
+#EXTINF:-1,
