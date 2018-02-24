@@ -9,6 +9,6 @@ https://www.howtogeek.com/290787/how-to-enable-developer-mode-and-sideload-roku-
 
 There is a default playlist with a few channels that can be found on the net or you can edit the m3u with your own or your iptv providers.
 
-Please note it will not sort into categories.
+Please note it will not sort into categories, this is being worked on and will soon be updated to arrange channels into sections and alphabetical order.
 
 
