@@ -1,41 +1,10 @@
 #EXTM3U
-
-#EXTINF:-1,*****ENTERTAINMENT*****
-.
-#EXTINF:-1,BBC ONE HD
+#EXTINF:-1 group-title="Entertainment",BBC ONE HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_one_hd.m3u8
-#EXTINF:-1,BBC TWO HD
+#EXTINF:-1 group-title="Entertainment",BBC TWO HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/bbc_two_hd.m3u8
-#EXTINF:-1,ITV HD
-http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1800.m3u8
-
-#EXTINF:-1,ITV2 HD
-http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
-#EXTINF:-1,ITV3 HD
-http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
-#EXTINF:-1,ITV4 HD
-http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
-#EXTINF:-1,ITVBE HD
-http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
-
-#EXTINF:-1,CBBC HD
+#EXTINF:-1 group-title="Entertainment",CBBC HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbbc.m3u8
-#EXTINF:-1,CBEEBIES HD
+#EXTINF:-1 group-title="Entertainment",CBEEBIES HD
 http://a.files.bbci.co.uk/media/live/manifesto/audio_video/simulcast/hls/uk/abr_hdtv/ak/cbeebies.m3u8
-#EXTINF:-1,*****NEWS*****
-.
-#EXTINF:-1,NBC 13
-http://api.new.livestream.com/accounts/12240447/events/3818578/live.m3u8
-#EXTINF:-1,KXAN News
-https://api.new.livestream.com/accounts/1506296/events/1569171/live.m3u8
-#EXTINF:-1,NBC 11 News
-http://kntvlive-f.akamaihd.net/i/kntvb2_1@15530/index_1286_av-p.m3u8
-#EXTINF:-1,
 
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
-
-#EXTINF:-1,
