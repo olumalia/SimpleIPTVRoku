@@ -1,0 +1,10 @@
+title=FreeView Player
+major_version=1
+minor_version=0
+build_version=1
+mm_icon_focus_hd=pkg:/images/icon_focus_hd.png
+requires_mkv=1
+splash_screen_fhd=pkg:/images/splash_fhd.png
+splash_color=#121212
+splash_min_time=2000
+ui_resolutions=fhd

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<component name="get_channel_list" extends="Task">
+	<interface>
+		<field id="content" type="node"/>
+		<field id="url" type="string"/>
+	</interface>
+<script type="text/brightscript" uri="pkg:/components/get_channel_list/get_channel_list.brs"/>
+</component>

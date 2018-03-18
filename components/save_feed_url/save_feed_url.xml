@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<component name="save_feed_url" extends="Task">
+
+<script type="text/brightscript" uri="pkg:/components/save_feed_url/save_feed_url.brs"/>
+</component>
+
